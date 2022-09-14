@@ -39,6 +39,7 @@ That's it! The package doesn't need any settings. You should be able to see the 
 
 1. [Imran Sayed](https://twitter.com/imranhsayed)
 2. [Smit Patadiya](https://twitter.com/smit_patadiya)
+3. [Amit Bhalani](https://amitbhalani.me)
 
 ## Contributors
 
